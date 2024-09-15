@@ -17,7 +17,7 @@ This repository contains Terraform configurations to set up the following infras
 
 1. Clone the repository:
    ```bash
-   git clone # Terraform Infrastructure Setup
+   git clone https://github.com/elsr-Pie/terraform_repo2.git
 
 This repository contains Terraform configurations to set up the following infrastructure components in AWS:
 
