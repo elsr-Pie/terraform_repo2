@@ -35,14 +35,9 @@ This repository contains Terraform configurations to set up the following infras
 
 1. Clone the repository:
    ```bash
-   git clone 
-   cd your-project
+   git clone https://github.com/elsr-Pie/terraform_repo2.git
+   cd terraform_repo2
 2. Check for the terraform.tfvars file and make changes to the variables you wish to change. 
 3. ⁠Run terraform init 
 4. ⁠run terraform plan 
 5. ⁠run terraform apply
-   cd your-project
-2. Check for the terraform.tfvars file and make changes to the variables you wish to change. 
-3. ⁠Run terraform init 
-4. ⁠Run terraform plan 
-5. ⁠Run terraform apply
